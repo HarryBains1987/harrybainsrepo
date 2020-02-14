@@ -2,7 +2,12 @@ Name: Harneet Singh Bains
 
 Project title: Coding Challenge - Marvel API - v1
 
-Install from Manage Nuget Packages the following:
+To install project from github to local:
+	download zip file of repo
+	extract zip file to folder
+	open solution in visual studio
+
+Install from Manage Nuget Packages the following (if required):
 	Microsoft.NET.Test.Sdk (16.4.0)
 	Newtonsoft.Json (12.0.3)
 	NUnit (3.12.0)
